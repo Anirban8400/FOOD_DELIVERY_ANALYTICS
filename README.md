@@ -79,25 +79,6 @@ Each page answers a **specific business question**.
 
 ---
 
-## 🧠 Skills Demonstrated
-
-- Business-first data analysis  
-- Feature engineering with clear assumptions  
-- KPI design and DAX measures  
-- Analytical thinking beyond visuals  
-- Communicating insights to non-technical stakeholders  
-
----
-
-## 🚀 How a Recruiter Can Use This Project
-
-- **Quick scan** → Read this README  
-- **Business context** → Review the Executive Summary PDF  
-- **Deep dive** → Walk through the pitch deck during interviews  
-- **Technical validation** → Check notebooks and SQL files  
-
----
-
 ## 📈 Future Scope
 
 - Customer-level order data analysis  
