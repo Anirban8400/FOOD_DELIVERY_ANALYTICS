@@ -1,4 +1,4 @@
-# 🍽️ Swiggy Food Delivery Analytics  
+# 🍽️ Food Delivery Analytics  
 ### Turning Raw Data into Business Decisions  
 **Python • SQL • Power BI | End-to-End Analytics Project**
 
@@ -107,9 +107,4 @@ Each page answers a **specific business question**.
 
 ---
 
-## 👤 Author
 
-**Jatin Chhabra**  
-Aspiring Data Analyst | Python • SQL • Power BI  
-
-📫 Open to internships, feedback, and collaboration.
